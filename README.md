@@ -8,7 +8,7 @@ I like turning raw data into something people can actually steer by: dashboards,
 
 ### What I work with
 
-`Python` · `SQL` · `SAS` · `Power BI` · `Tableau` · `Power Automate` · `Excel` · `HTML/CSS/JavaScript`
+`Python` · `SQL` · `SAS` · `Power BI` · `Tableau` · `Power Automate` · `Excel`
 
 ### Projects
 
